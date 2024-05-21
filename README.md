@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/machine-learning-artificial-intelligence-digital-transformation-tech-business-metaphor-set-working-big-data-engineer-ai-308341951.jpg?w=1400)](https://rishavchanda.io)
+[![MasterHead](https://t4.ftcdn.net/jpg/04/22/75/43/360_F_422754338_8mV1KgejRJEHF9cXSWsSbFbR5So6Bcm9.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdelrahman Ashraf</h1>
 <h3 align="center">A passionate Data Engineer, enthusiastic about Big Data, Data Engineering, and Data Analytics technologies to create transformative solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdxeGVnaGM2d3BvYWYycXp3NmRsNWRpdGR1NjFrYjdqank4dGxvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" />
